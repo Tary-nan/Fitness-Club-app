@@ -201,7 +201,7 @@ class HomeScreen extends StatelessWidget {
             //             Text(
             //               'Steps',
             //               style: TextStyle(color: Colors.black, fontSize: 32),
-            //             ),
+            //             ),_
             //             Text('Hello world'),
             //           ],
             //         ),
